@@ -1,0 +1,13 @@
+.FoundSolutions {
+    margin: 20px;
+  }
+  
+  .FoundSolutions ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .FoundSolutions li {
+    margin: 5px 0;
+  }
+  

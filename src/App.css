@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.App p {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.message {
+  color: #d9534f; /* Red color for messages */
+  margin-top: 10px;
+}
